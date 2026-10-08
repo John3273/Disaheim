@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../DisaheimTest/DisaheimTest.csproj" />
+  <Project Path="Disaheim.csproj" />
+</Solution>
